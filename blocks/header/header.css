@@ -201,6 +201,7 @@ header nav .nav-sections ul > li > ul > li {
     position: relative;
     padding-right: 16px;
     cursor: pointer;
+    color: red;
   }
 
   header nav .nav-sections .nav-drop::after {
